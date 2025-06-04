@@ -4,7 +4,7 @@
 - `Galaxy_Classification.ipynb` — Jupyter Notebook с полным кодом.
 - `models' - модели для тестирования приложения
 - `img' - изображения для тестирования приложения
-
+- Данные из проекта GalaxyZoo
 
 ## Зависимости
 - Библиотеки: Notebook, TensorFlow, Keras, Pandas, Pillow, scikit-image, os, NumPy, urlopen, matplotlib, shutil, PIL, re, time.
